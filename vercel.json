@@ -1,6 +1,3 @@
 {
-  "framework": "nextjs",
-  "buildCommand": "cd templates/portfolio && npm install && npm run build",
-  "outputDirectory": "templates/portfolio/.next",
-  "installCommand": "cd templates/portfolio && npm install"
+  "framework": "nextjs"
 }
