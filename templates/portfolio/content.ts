@@ -5,11 +5,11 @@
 // ────────────────────────────────────────────────────────────────
 
 export const hero = {
-  name: "Anna Schneider",
-  role: "Product Designer",
+  name: "Natallia",
+  role: "Creative Project Manager",
   location: "Berlin, Germany",
   headline:
-    "I help early-stage teams turn fuzzy ideas into shipping products. Currently designing checkout flows at a fintech startup.",
+    "On a mission to create effective, impactful projects. I turn ambitious ideas into results that actually matter.",
   ctaPrimary: { label: "See my work", href: "#projects" },
   ctaSecondary: { label: "Get in touch", href: "#contact" },
 };
@@ -17,9 +17,9 @@ export const hero = {
 export const about = {
   heading: "About",
   paragraphs: [
-    "I'm a product designer with seven years of experience across fintech, e-commerce, and developer tools. I care about the unglamorous parts of design — error states, edge cases, and the slow trust-building between a product and its users.",
-    "Before design, I studied philosophy in Munich. It turns out a lot of design is just disciplined thinking about what people actually need versus what they say they want.",
-    "Outside work I climb (poorly), read (constantly), and run a small Sunday breakfast club in Neukölln.",
+    "I generate ideas and develop concepts and strategies for brand promotion, write and edit texts, and oversee the production and implementation of projects. I work with all types of content — SMM, articles, explainers, scripts for videos, small copy, big copy — everything, everywhere, all at once.",
+    "My focus is on startups and technology companies. I understand trends, needs, and all the buzz around them, which helps me create engaging and effective content.",
+    "My superpower is combining creativity with numbers to create content that solves business problems and meets needs.",
   ],
 };
 
@@ -27,25 +27,12 @@ export const experience = {
   heading: "Experience",
   roles: [
     {
-      title: "Senior Product Designer",
-      company: "Tide",
-      period: "2023 — Present",
+      title: "Creative Project & Marketing Manager",
+      company: "Maramio",
+      period: "2024 — Present",
       summary:
-        "Leading checkout and onboarding redesign for the business banking app. Cut signup drop-off by 34% in the first quarter after launch.",
-    },
-    {
-      title: "Product Designer",
-      company: "GitLab",
-      period: "2020 — 2023",
-      summary:
-        "Owned the merge request review experience. Shipped inline code review, suggested changes UX, and the new diff renderer.",
-    },
-    {
-      title: "Designer",
-      company: "Freelance",
-      period: "2017 — 2020",
-      summary:
-        "Worked with 14 early-stage startups across Berlin and Tel Aviv on brand, web, and product design.",
+        "Increased total page views by 253% and content engagement by 77% for this Berlin startup.",
+      link: { label: "maramio.com", href: "https://maramio.com" },
     },
   ],
 };
